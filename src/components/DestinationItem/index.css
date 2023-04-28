@@ -1,0 +1,22 @@
+/* Write your CSS here */
+li {
+  width: 40%;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.pImage {
+  width: 500px;
+  border-radius: 20px;
+  box-shadow: h-offset v-offset blur;
+  box-shadow: 15px 15px 15px #91908d;
+}
+a {
+  cursor: pointer;
+}
+.secondAnchorLink {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
